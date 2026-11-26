@@ -1,0 +1,30 @@
+{
+  "id": "en-n01",
+  "lang": "en",
+  "title": "The Lighthouse That Hummed",
+  "title_en": "The Lighthouse That Hummed",
+  "sentences": [
+    "A small lighthouse on a quiet cliff liked to hum at night.",
+    "Its tune was soft, and only the sleepy gulls could hear it.",
+    "One foggy evening a lost boat drifted near the rocks.",
+    "The sailor could not see the shore, but he heard a hum.",
+    "He followed the gentle sound through the gray mist.",
+    "The lighthouse hummed louder, and its lamp glowed warm.",
+    "The boat slipped past the rocks and reached the harbor.",
+    "The sailor waved at the tower and whispered thank you.",
+    "The lighthouse blinked twice, which was its way of smiling.",
+    "From that night on, the gulls hummed along every evening."
+  ],
+  "source": {
+    "origin": "Original story written for HoloKeyboard V1",
+    "period": "2026",
+    "author_or_tradition": "Claude (an AI model by Anthropic), written at the request of the HoloKeyboard project owner",
+    "author_death_year": null,
+    "basis": "Newly invented plot. It is not based on, copied from or adapted from any existing tale, book, song or translation.",
+    "adaptation": "none - original creation",
+    "modern_texts_consulted": "none"
+  },
+  "rights_status": "cleared",
+  "release": true,
+  "notes": "AI-drafted original text offered with the project under the MIT License. The copyright holder line is pending the project owner's confirmation. See CONTENT-RIGHTS.md."
+}

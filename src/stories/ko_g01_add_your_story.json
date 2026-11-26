@@ -1,0 +1,31 @@
+{
+  "id": "ko-g01",
+  "lang": "ko",
+  "title": "나만의 이야기 파일 만들기",
+  "title_en": "How to Add Your Own Story (Korean)",
+  "sentences": [
+    "이야기 파일은 글자로 쓴 작은 상자예요.",
+    "상자 안에는 이름표와 제목과 문장들이 들어 있어요.",
+    "먼저 메모장을 열고 새 글을 시작해요.",
+    "이야기마다 다른 이름표를 꼭 붙여 주세요.",
+    "문장은 짧게 쓰고 쉼표로 나누어 적어요.",
+    "저장할 때는 유니코드 방식을 골라요.",
+    "만든 파일은 이야기 폴더에 넣어요.",
+    "타자 연습 창을 닫았다가 다시 열면 내 이야기가 보여요.",
+    "자세한 예제는 사용설명서에 있어요.",
+    "내가 쓴 글은 나 혼자 즐기는 용도로 쓰면 안전해요.",
+    "남의 글을 나누어 주려면 허락이 꼭 필요해요."
+  ],
+  "source": {
+    "origin": "Original instructional text written for HoloKeyboard V1",
+    "period": "2026",
+    "author_or_tradition": "Claude (an AI model by Anthropic), written at the request of the HoloKeyboard project owner",
+    "author_death_year": null,
+    "basis": "Newly written how-to text describing HoloKeyboard's own story-file feature. It is not copied from any other document.",
+    "adaptation": "none - original creation",
+    "modern_texts_consulted": "none"
+  },
+  "rights_status": "cleared",
+  "release": true,
+  "notes": "AI-drafted original text offered with the project under the MIT License. The copyright holder line is pending the project owner's confirmation. See CONTENT-RIGHTS.md."
+}

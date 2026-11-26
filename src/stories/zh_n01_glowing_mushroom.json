@@ -1,0 +1,30 @@
+{
+  "id": "zh-n01",
+  "lang": "zh",
+  "title": "会发光的小蘑菇",
+  "title_en": "The Little Glowing Mushroom",
+  "sentences": [
+    "雨停了，树林里很安静。",
+    "一朵小蘑菇在落叶下醒了过来。",
+    "它发现自己的帽子会发出淡淡的光。",
+    "这时，一只小蜗牛慢慢爬过来，不知道该往哪走。",
+    "小蘑菇说，别怕，我来给你照路。",
+    "蜗牛背着小房子，一步一步跟着光走。",
+    "路上有水洼，小蘑菇就把光调得更亮一些。",
+    "天快亮的时候，蜗牛终于回到了自己的家。",
+    "它回头笑着说，谢谢你，小灯。",
+    "从那以后，树林里的夜晚再也不黑了。"
+  ],
+  "source": {
+    "origin": "Original story written for HoloKeyboard V1",
+    "period": "2026",
+    "author_or_tradition": "Claude (an AI model by Anthropic), written at the request of the HoloKeyboard project owner",
+    "author_death_year": null,
+    "basis": "Newly invented plot. It is not based on, copied from or adapted from any existing tale, book, song or translation.",
+    "adaptation": "none - original creation",
+    "modern_texts_consulted": "none"
+  },
+  "rights_status": "cleared",
+  "release": true,
+  "notes": "AI-drafted original text offered with the project under the MIT License. The copyright holder line is pending the project owner's confirmation. See CONTENT-RIGHTS.md."
+}

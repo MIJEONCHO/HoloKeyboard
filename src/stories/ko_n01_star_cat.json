@@ -1,0 +1,30 @@
+{
+  "id": "ko-n01",
+  "lang": "ko",
+  "title": "별을 닦는 고양이",
+  "title_en": "The Cat Who Polished the Stars",
+  "sentences": [
+    "달이 없는 밤에 고양이 보리는 지붕 위에 올라갔어요.",
+    "하늘의 별들이 먼지를 쓰고 흐릿하게 반짝였어요.",
+    "보리는 꼬리에 부드러운 천을 묶었어요.",
+    "그리고 높은 굴뚝을 타고 한 칸씩 올라갔어요.",
+    "별 하나를 살살 닦자 작은 불빛이 환해졌어요.",
+    "별은 고맙다고 속삭이며 따뜻하게 웃었어요.",
+    "보리는 밤새도록 별을 하나씩 닦아 주었어요.",
+    "새벽이 오자 하늘은 반짝이는 길처럼 빛났어요.",
+    "보리는 지붕에서 하품을 하고 스르르 잠들었어요.",
+    "그날부터 마을 사람들은 맑은 밤을 보리의 선물이라고 불렀어요."
+  ],
+  "source": {
+    "origin": "Original story written for HoloKeyboard V1",
+    "period": "2026",
+    "author_or_tradition": "Claude (an AI model by Anthropic), written at the request of the HoloKeyboard project owner",
+    "author_death_year": null,
+    "basis": "Newly invented plot. It is not based on, copied from or adapted from any existing tale, book, song or translation.",
+    "adaptation": "none - original creation",
+    "modern_texts_consulted": "none"
+  },
+  "rights_status": "cleared",
+  "release": true,
+  "notes": "AI-drafted original text offered with the project under the MIT License. The copyright holder line is pending the project owner's confirmation. See CONTENT-RIGHTS.md."
+}

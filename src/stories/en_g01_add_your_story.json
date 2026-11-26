@@ -1,0 +1,31 @@
+{
+  "id": "en-g01",
+  "lang": "en",
+  "title": "How to Add Your Own Story",
+  "title_en": "How to Add Your Own Story",
+  "sentences": [
+    "A story file is a small text file that holds your own tale.",
+    "Open Notepad and start a new empty document.",
+    "Write an id, a language, a title and a list of sentences.",
+    "Give every story its own id so it never clashes with others.",
+    "Keep each sentence short so it fits on one line.",
+    "Save it as UTF eight text and end the name with dot json.",
+    "Put the file in the stories folder in your local app data.",
+    "Close the typing practice window and open it again.",
+    "Your own story now appears in the story list.",
+    "Personal stories are for you, so type them and enjoy them.",
+    "Sharing text you did not write needs its owner's permission."
+  ],
+  "source": {
+    "origin": "Original instructional text written for HoloKeyboard V1",
+    "period": "2026",
+    "author_or_tradition": "Claude (an AI model by Anthropic), written at the request of the HoloKeyboard project owner",
+    "author_death_year": null,
+    "basis": "Newly written how-to text describing HoloKeyboard's own story-file feature. It is not copied from any other document.",
+    "adaptation": "none - original creation",
+    "modern_texts_consulted": "none"
+  },
+  "rights_status": "cleared",
+  "release": true,
+  "notes": "AI-drafted original text offered with the project under the MIT License. The copyright holder line is pending the project owner's confirmation. See CONTENT-RIGHTS.md."
+}

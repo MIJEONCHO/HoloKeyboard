@@ -1,0 +1,30 @@
+{
+  "id": "ja-n01",
+  "lang": "ja",
+  "title": "くものおふろや",
+  "title_en": "The Cloud Bathhouse",
+  "sentences": [
+    "くものうえに、ちいさなおふろやがありました。",
+    "おふろやのてんしゅは、まるいくものこどもでした。",
+    "あめつぶたちは、そらからおりるまえに、ここでからだをあらいます。",
+    "あるひ、ひとつぶのあめだまが、なきそうなかおできました。",
+    "ちいさすぎて、だれにもきづいてもらえないのです。",
+    "くものこどもは、あたたかいゆげをふわっとかけました。",
+    "あめだまは、ほかほかになって、きらきらひかりました。",
+    "そして、ぴかぴかのしずくになって、あさがおのはにおりました。",
+    "はっぱのうえで、しずくはにこっとわらいました。",
+    "くものおふろやは、きょうもあめつぶたちをまっています。"
+  ],
+  "source": {
+    "origin": "Original story written for HoloKeyboard V1",
+    "period": "2026",
+    "author_or_tradition": "Claude (an AI model by Anthropic), written at the request of the HoloKeyboard project owner",
+    "author_death_year": null,
+    "basis": "Newly invented plot. It is not based on, copied from or adapted from any existing tale, book, song or translation.",
+    "adaptation": "none - original creation",
+    "modern_texts_consulted": "none"
+  },
+  "rights_status": "cleared",
+  "release": true,
+  "notes": "AI-drafted original text offered with the project under the MIT License. The copyright holder line is pending the project owner's confirmation. See CONTENT-RIGHTS.md."
+}

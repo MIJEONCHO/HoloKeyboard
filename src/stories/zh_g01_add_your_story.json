@@ -1,0 +1,31 @@
+{
+  "id": "zh-g01",
+  "lang": "zh",
+  "title": "怎样添加自己的故事",
+  "title_en": "How to Add Your Own Story (Chinese)",
+  "sentences": [
+    "故事文件是一个小小的文本文件。",
+    "先打开记事本，新建一个空白文档。",
+    "把编号，语言，标题和句子写进去。",
+    "每个故事都要有独一无二的编号。",
+    "每句话尽量写短一些，方便打字。",
+    "保存时请选择统一码编码。",
+    "把文件放进本机应用数据里的故事文件夹。",
+    "关闭打字练习窗口，再重新打开它。",
+    "你写的故事就会出现在故事列表里。",
+    "自己写的故事可以个人使用。",
+    "转发别人写的内容，需要得到作者的同意。"
+  ],
+  "source": {
+    "origin": "Original instructional text written for HoloKeyboard V1",
+    "period": "2026",
+    "author_or_tradition": "Claude (an AI model by Anthropic), written at the request of the HoloKeyboard project owner",
+    "author_death_year": null,
+    "basis": "Newly written how-to text describing HoloKeyboard's own story-file feature. It is not copied from any other document.",
+    "adaptation": "none - original creation",
+    "modern_texts_consulted": "none"
+  },
+  "rights_status": "cleared",
+  "release": true,
+  "notes": "AI-drafted original text offered with the project under the MIT License. The copyright holder line is pending the project owner's confirmation. See CONTENT-RIGHTS.md."
+}
