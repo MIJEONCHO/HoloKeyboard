@@ -1,0 +1,12 @@
+{
+  "id": "user-en-001",
+  "lang": "en",
+  "title": "My First Story",
+  "title_en": "My First Story",
+  "sentences": [
+    "Write one short sentence on each line of this list.",
+    "Keep every sentence to about sixty characters or fewer.",
+    "Put a comma after each sentence except the last one.",
+    "This example is yours to rename, rewrite and enjoy."
+  ]
+}
