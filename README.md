@@ -50,6 +50,8 @@ Open Settings → Donate and confirm your contribution if you wish to activate t
 
 The first-party source code (`src/`) and documentation are under the **MIT License** (`LICENSE`). The license does **not** cover: third-party software in the ZIP (Python, Tcl/Tk, zlib, libffi, bzip2, libmpdec, PyInstaller bootloader; each keeps its own license, see [Third-party notices](THIRD_PARTY_NOTICES.md) and `licenses/`); the names and logos "AI Companion Lab", "HoloKeyboard" and "AI World Portal"; and any content you add yourself. The eight bundled typing-practice texts are original texts written for this project and are offered under the MIT License (see [Content rights](CONTENT-RIGHTS.md)).
 
+Developed by AI Companion Lab. Copyright (c) 2026 Mijeon Cho.
+
 ## Status
 
 - Typing Practice bundles eight original texts (a short new story and an "add your own story" guide in each of Korean, English, Chinese and Japanese). You can add personal story files as JSON; see the manual. The 20 earlier retellings are not included (see [Content list](CONTENT-LIST.md)).
