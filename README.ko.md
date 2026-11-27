@@ -42,3 +42,5 @@ Windows x64 ZIP을 모두 풀고 `HoloKeyboard.exe`를 실행하세요. `_intern
 ## 라이선스
 
 자체 소스(`src/`)와 문서는 **MIT License**입니다. ZIP의 제3자 소프트웨어(Python, Tcl/Tk, zlib, libffi, bzip2, libmpdec, PyInstaller 부트로더)는 각자의 라이선스를 따릅니다. "AI Companion Lab", "HoloKeyboard", "AI World Portal" 이름과 로고, 사용자가 추가한 콘텐츠에는 이 라이선스가 적용되지 않습니다. 기본 타자 연습 글 8편은 이 프로젝트를 위해 새로 쓴 글입니다([콘텐츠 권리](CONTENT-RIGHTS.md)).
+
+개발: AI Companion Lab. 저작권 (c) 2026 Mijeon Cho.
