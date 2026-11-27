@@ -11,7 +11,7 @@ The package bundles **eight** short texts, two per language (Korean, English, Ch
 
 **How they were written.** Written on 2026-11-26 by Claude (an AI model made by Anthropic) at the request of the HoloKeyboard project owner, for this project. The story plots are newly invented. They are not based on, copied from or adapted from any existing tale, book, song, game or translation, and no existing text was consulted while writing them. The guide texts describe HoloKeyboard's own feature. This is the project's own account of how the texts were made. It is not an independent originality check and not legal advice.
 
-**License.** The eight texts are offered with the project under the **MIT License** (see `LICENSE`), the same terms as the first-party source code and documentation. The copyright holder named in `LICENSE` is AI Companion Lab. Because the texts were drafted by an AI model, the copyright status of purely AI-generated text differs between countries; the project owner offers them under MIT to the extent rights exist.
+**License.** The eight texts are offered with the project under the **MIT License** (see `LICENSE`), the same terms as the first-party source code and documentation. The copyright holder is Mijeon Cho (development brand: AI Companion Lab; see `LICENSE`). Because the texts were drafted by an AI model, the copyright status of purely AI-generated text differs between countries; the project owner offers them under MIT to the extent rights exist.
 
 **Not included.** The 20 earlier retellings of traditional tales prepared during development are **not** part of the public repository or the package, because the author, rights holder and license of their wording are not confirmed. They are kept privately by the project owner.
 
